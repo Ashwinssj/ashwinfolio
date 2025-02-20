@@ -39,7 +39,7 @@ export default function Works() {
       img: "/global.png",
     },
     {
-      title: "Facultie Development Program for JIT College of Engineering, Nashik",
+      title: "Faculty Development Program for JIT College of Engineering, Nashik",
       liveLink: "https://colab.research.google.com/drive/1ae7LRU8RcAHgc6fxx3ZegY5DAtp0tB-X?usp=sharing",
       about:
         "This program is designed to empower teachers by enhancing their skills in the field of Artificial Intelligence (AI). It covers a wide range of topics, including AI fundamentals, data analysis with AI, AI for question generation, and AI in research. The program includes hands-on projects and practical offline acknowledgments to ensure comprehensive learning.",
